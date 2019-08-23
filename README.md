@@ -1,17 +1,17 @@
 [![HitCount](http://hits.dwyl.io/hastagAB/GSoC-19.svg)](http://hits.dwyl.io/hastagAB/GSoC-19)
 ![Atarashi](https://img.shields.io/pypi/status/atarashi)
-[![PyPI - Downloads](https://img.shields.io/pypi/dm/atarashi)](https://pypi.org/project/atarashi/)]
+![License](https://img.shields.io/pypi/l/atarashi)
 ![GitHub stars](https://img.shields.io/github/stars/fossology/atarashi?style=social)
 
 
 
 
-               _______       _____             _____ _    _ _____ 
-            /\|__   __|/\   |  __ \     /\    / ____| |  | |_   _|
-           /  \  | |  /  \  | |__) |   /  \  | (___ | |__| | | |  
-          / /\ \ | | / /\ \ |  _  /   / /\ \  \___ \|  __  | | |  
-         / ____ \| |/ ____ \| | \ \  / ____ \ ____) | |  | |_| |_ 
-        /_/    \_\_/_/    \_\_|  \_\/_/    \_\_____/|_|  |_|_____|
+                               _______       _____             _____ _    _ _____ 
+                            /\|__   __|/\   |  __ \     /\    / ____| |  | |_   _|
+                           /  \  | |  /  \  | |__) |   /  \  | (___ | |__| | | |  
+                          / /\ \ | | / /\ \ |  _  /   / /\ \  \___ \|  __  | | |  
+                         / ____ \| |/ ____ \| | \ \  / ____ \ ____) | |  | |_| |_ 
+                        /_/    \_\_/_/    \_\_|  \_\/_/    \_\_____/|_|  |_|_____|
                                                                   
                                                            
 
