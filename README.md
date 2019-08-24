@@ -156,4 +156,7 @@ The PR for the Algorithm is: [feat(doc2vec) : Semantic Text Similarity Algorithm
 * Learned the importance of docmentation.
 * Improved my communication skill.
 
+# 📜 License
+This repository is licensed under the [GPL-2.0](/LICENSE) © [HastagAB](https://github.com/hastagAB).
+
 [![](https://img.shields.io/badge/Made%20With%20❤️%20By-HastagAB-red)](https://github.com/hastagAB)
