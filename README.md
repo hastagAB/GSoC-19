@@ -107,14 +107,14 @@ The cosine distance between the vectors are calculated and the highest score is 
 
 > The label is actually the license name 
 
-The PR for the Algorithm is: [feat(doc2vec) : Semantic Text Similarity Algorithm with dataset & training code](https://github.com/fossology/atarashi/pull/58)
+The PR for the Algorithm is: [feat(doc2vec) : Semantic Text Similarity Algorithm with dataset & training code](https://github.com/fossology/atarashi/pull/60)
 
 
 # 🔧 PULL REQUESTS
 ## Major Contributions
 - [feat(atarashi): Add Atarashi to FOSSology](https://github.com/fossology/fossology/pull/1408)
 - [feat(evaluator): Add Evaluation Script for algorithms](https://github.com/fossology/atarashi/pull/57)
-- [feat(doc2vec) : Semantic Text Similarity Algorithm with dataset & training code](https://github.com/fossology/atarashi/pull/58)
+- [feat(doc2vec) : Semantic Text Similarity Algorithm with dataset & training code](https://github.com/fossology/atarashi/pull/60)
 
 ## Other Contributions
 - [fix(obligations): fix UI and connected db to dropdown menu](https://github.com/fossology/fossology/pull/1329)
